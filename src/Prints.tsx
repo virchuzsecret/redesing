@@ -1,0 +1,1 @@
+{/*the same than Clothes.tsx, and the same than Clothes-Items.tsx for each item*/}

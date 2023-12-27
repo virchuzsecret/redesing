@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+}
+
+:root{
+  --main-pink: #f6b3d1;
+  --cereza-secundario: #f21c40;
+  --verde-secundario: #3e9d2e;
+  --azul-secundario: #2e849d;
+  --celeste-resources: #5ddbff;
+  --almost-black: #0a0a0a;
+  --creamy-backs: #fff2c7;
+}
